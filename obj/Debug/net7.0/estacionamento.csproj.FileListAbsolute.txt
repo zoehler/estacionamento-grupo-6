@@ -1,0 +1,30 @@
+C:\Users\felipe.zoehler\Desktop\anima-upskilling\estacionamento\bin\Debug\net7.0\estacionamento.exe
+C:\Users\felipe.zoehler\Desktop\anima-upskilling\estacionamento\bin\Debug\net7.0\estacionamento.deps.json
+C:\Users\felipe.zoehler\Desktop\anima-upskilling\estacionamento\bin\Debug\net7.0\estacionamento.runtimeconfig.json
+C:\Users\felipe.zoehler\Desktop\anima-upskilling\estacionamento\bin\Debug\net7.0\estacionamento.dll
+C:\Users\felipe.zoehler\Desktop\anima-upskilling\estacionamento\bin\Debug\net7.0\estacionamento.pdb
+C:\Users\felipe.zoehler\Desktop\anima-upskilling\estacionamento\obj\Debug\net7.0\estacionamento.csproj.AssemblyReference.cache
+C:\Users\felipe.zoehler\Desktop\anima-upskilling\estacionamento\obj\Debug\net7.0\estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.zoehler\Desktop\anima-upskilling\estacionamento\obj\Debug\net7.0\estacionamento.AssemblyInfoInputs.cache
+C:\Users\felipe.zoehler\Desktop\anima-upskilling\estacionamento\obj\Debug\net7.0\estacionamento.AssemblyInfo.cs
+C:\Users\felipe.zoehler\Desktop\anima-upskilling\estacionamento\obj\Debug\net7.0\estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\felipe.zoehler\Desktop\anima-upskilling\estacionamento\obj\Debug\net7.0\estacionamento.dll
+C:\Users\felipe.zoehler\Desktop\anima-upskilling\estacionamento\obj\Debug\net7.0\refint\estacionamento.dll
+C:\Users\felipe.zoehler\Desktop\anima-upskilling\estacionamento\obj\Debug\net7.0\estacionamento.pdb
+C:\Users\felipe.zoehler\Desktop\anima-upskilling\estacionamento\obj\Debug\net7.0\estacionamento.genruntimeconfig.cache
+C:\Users\felipe.zoehler\Desktop\anima-upskilling\estacionamento\obj\Debug\net7.0\ref\estacionamento.dll
+C:\Users\felip\OneDrive\Documentos\Curso Dotnet\estacionamento\bin\Debug\net7.0\estacionamento.exe
+C:\Users\felip\OneDrive\Documentos\Curso Dotnet\estacionamento\bin\Debug\net7.0\estacionamento.deps.json
+C:\Users\felip\OneDrive\Documentos\Curso Dotnet\estacionamento\bin\Debug\net7.0\estacionamento.runtimeconfig.json
+C:\Users\felip\OneDrive\Documentos\Curso Dotnet\estacionamento\bin\Debug\net7.0\estacionamento.dll
+C:\Users\felip\OneDrive\Documentos\Curso Dotnet\estacionamento\bin\Debug\net7.0\estacionamento.pdb
+C:\Users\felip\OneDrive\Documentos\Curso Dotnet\estacionamento\obj\Debug\net7.0\estacionamento.csproj.AssemblyReference.cache
+C:\Users\felip\OneDrive\Documentos\Curso Dotnet\estacionamento\obj\Debug\net7.0\estacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\OneDrive\Documentos\Curso Dotnet\estacionamento\obj\Debug\net7.0\estacionamento.AssemblyInfoInputs.cache
+C:\Users\felip\OneDrive\Documentos\Curso Dotnet\estacionamento\obj\Debug\net7.0\estacionamento.AssemblyInfo.cs
+C:\Users\felip\OneDrive\Documentos\Curso Dotnet\estacionamento\obj\Debug\net7.0\estacionamento.csproj.CoreCompileInputs.cache
+C:\Users\felip\OneDrive\Documentos\Curso Dotnet\estacionamento\obj\Debug\net7.0\estacionamento.dll
+C:\Users\felip\OneDrive\Documentos\Curso Dotnet\estacionamento\obj\Debug\net7.0\refint\estacionamento.dll
+C:\Users\felip\OneDrive\Documentos\Curso Dotnet\estacionamento\obj\Debug\net7.0\estacionamento.pdb
+C:\Users\felip\OneDrive\Documentos\Curso Dotnet\estacionamento\obj\Debug\net7.0\estacionamento.genruntimeconfig.cache
+C:\Users\felip\OneDrive\Documentos\Curso Dotnet\estacionamento\obj\Debug\net7.0\ref\estacionamento.dll
